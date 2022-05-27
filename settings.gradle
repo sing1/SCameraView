@@ -1,0 +1,3 @@
+rootProject.name = "SCameraView"
+include ':app'
+include ':library'
